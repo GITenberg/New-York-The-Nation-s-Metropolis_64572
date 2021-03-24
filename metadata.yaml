@@ -1,0 +1,33 @@
+_repo: New-York-The-Nation-s-Metropolis_64572
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Hewlett, James Monroe, 1868-1941
+    alias: Hewlett, J. Monroe (James Monroe)
+    birthdate: 1868
+    deathdate: 1941
+    gutenberg_agent_id: '52966'
+    url: http://www.gutenberg.org/2009/agents/52966
+    wikipedia: https://en.wikipedia.org/wiki/James_Monroe_Hewlett
+  illustrator:
+    agent_name: Marcus, Peter
+    birthdate: 1889
+    deathdate: 1934
+    gutenberg_agent_id: '52965'
+    url: http://www.gutenberg.org/2009/agents/52965
+description: ''
+gutenberg_issued: '2021-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64572'
+  lccn: '21006058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Pictorial works'
+- !lcc 'F106'
+- GITenberg
+title: 'New York: The Nation''s Metropolis'
+url: http://www.gutenberg.org/ebooks/64572
