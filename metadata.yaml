@@ -15,7 +15,12 @@ contributor:
     deathdate: 1934
     gutenberg_agent_id: '52965'
     url: http://www.gutenberg.org/2009/agents/52965
+covers:
+- cover_type: archival
+  image_path: 64572-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64572#New-York-The-Nation-s-Metropolis
 gutenberg_issued: '2021-02-16'
 gutenberg_type: Text
 identifiers:
